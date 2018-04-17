@@ -1,0 +1,163 @@
+.text-center {
+  text-align: center;
+}
+
+.general-padding-bottom {
+  padding-bottom: 20px;
+}
+
+.topnav-height {
+  height: 10vh;
+}
+
+.topnav-logo {
+  background-color: #12ccbe;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 20px 0px;
+}
+
+.topnav-logout {
+  color: #a5a5a5;
+  font-size: 16px;
+  text-align: right;
+  padding: 25px 60px;
+}
+
+.bg-sidenav {
+  background-color: #2f3b4c;
+  color: #ffffff;
+  height: 90vh;
+  padding: 30px;
+}
+
+.sidenav-link {
+  color: #b0bec5;
+  padding: 20px 0px 20px 10px;
+}
+
+.sidenav-link:hover {
+  color: #ffffff;
+}
+
+.sidenav-pad {
+  padding: 0px 0px;
+}
+
+.dashboard-bg {
+  background-color: #f4f4f4;
+  height: 90vh;
+  padding: 10px 70px 0px 70px;
+}
+
+.dashboard-card-height {
+  padding: 30px 30px;
+}
+
+.card-shadow {
+  box-shadow: 0px 2px 3px 0px #dedede;
+}
+
+.dashboard-card-icon {
+  background-color: #a5a5a5;
+  height: 100px;
+  padding-top: 25px;
+}
+
+.dashboard-card-icon-df {
+  background-color: #12ccbe;
+  height: 100px;
+  padding-top: 25px;
+}
+
+.dashboard-card-details {
+  background-color: #ffffff;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.dashboard-card-details h5 {
+  color: #a5a5a5;
+}
+
+.dashboard-graph-card {
+  background-color: #ffffff;
+  height: 100px;
+}
+
+.company-list-card {
+  background-color: #ffffff;
+  padding: 20px 80px 30px 80px;
+}
+
+.company-list-padding {
+  padding-bottom: 20px;
+}
+
+.company-list-view {
+  padding: 15px 0px 5px 0px;
+}
+
+.button-style {
+  background-color: #12ccbe;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 15px 30px;
+}
+
+.button-style:hover {
+  background-color: #0dada0;
+  color: #ffffff;
+}
+
+.settings-card-details {
+  background-color: #ffffff;
+  padding-top: 10px;
+}
+
+.collaborator-img {
+  padding: 30px 0px;
+}
+
+.data-div {
+  padding: 10px 5px;
+}
+
+.auth-height {
+  height: 100vh;
+  padding-top: 150px;
+}
+
+.general-input {
+  border: 1px solid rgb(122, 122, 122);
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: 50%;
+}
+
+.general-input:focus {
+  outline: none;
+}
+
+.auth-height h2 {
+  padding-bottom: 20px;
+}
+
+.auth-padding {
+  padding-bottom: 20px;
+}
+
+.auth-button {
+  background-color: #12ccbe;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px 10px;
+  width: 50%;
+}
+
+.auth-button:hover {
+  background-color: #0dada0;
+  color: #fff;
+}
